@@ -1,4 +1,48 @@
-body{
-	color:purple;
-	background-color:#d8da3d;
+.abelMEPL{
+	
+}
+.abelMEPBannerWrap{
+	width:550px;
+	height:301px;
+	background-color:#e8e8e8;
+	margin:0 auto;
+}
+.abelMEPBannerWrap img{
+	margin:10px;
+	width:530px;
+}
+.abelMEPTxtL{
+	width:530px;
+	background-color:#e8e8e8;
+	margin:0 auto;
+	padding:10px;
+	font-family:'Lora', serif;
+	font-size:12px;
+	text-align:justify;
+}
+.abelMEPL .ribbon{
+	font-size:40px !important;
+	width:573px;
+	font-family:'Herr Von Muellerhoff', cursive;
+	position:relative;
+	background:#ce8983;
+	color:#fff;
+	text-align:center;
+	padding:1px;
+	margin:0 auto;
+}
+.abelMEPL .ribbon .ribbon-content:before, .abelMEPL .ribbon .ribbon-content:after{
+	content:"";
+	position:absolute;
+	display:block;
+	border-style:solid;
+	border-color:#815551 transparent transparent transparent;bottom:-.3em;
+}
+.abelMEPL .ribbon .ribbon-content:before{
+	left:0;
+	border-width:.3em 0 0 .3em;
+}
+.abelMEPL .ribbon .ribbon-content:after{
+	right:0;
+	border-width:.3em .3em 0 0;
 }
