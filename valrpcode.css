@@ -124,7 +124,6 @@
     white-space:nowrap;
     display: inline-block;
     position:relative;
-    left:-4px;
 }
 
 .valPointe{
@@ -134,8 +133,8 @@
     background-image: url('https://imgur.com/xfPYSwb.png');
     display: inline-block;
     position:relative;
-    left:-8px;
-    margin-right:-8px;
+    left:-4px;
+    margin-right:-4px;
 }
 
 .valTxtRP{
