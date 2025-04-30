@@ -124,6 +124,7 @@
     white-space:nowrap;
     display: inline-block;
     position:relative;
+    left:4px;
 }
 
 .valPointe{
