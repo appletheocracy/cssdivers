@@ -67,15 +67,18 @@
 }
 
 .valDiu .valCRPb{
-    background-image:url('https://imgur.com/K6Fr55r.png');
+    background: #9AC993;
+    background: linear-gradient(0deg,rgba(154, 201, 147, 1) 55%, rgba(154, 201, 147, 0) 100%);
 }
 
 .valGri .valCRPb{
-    background-image:url('https://imgur.com/ZeIlHSN.png');
+    background: #81CDD1;
+    background: linear-gradient(0deg,rgba(129, 205, 209, 1) 55%, rgba(129, 205, 209, 0) 100%);
 }
 
 .valCro .valCRPb{
-    background-image:url('https://imgur.com/CcLhBLd.png');
+    background: #F59D9D;
+    background: linear-gradient(0deg, rgba(245, 157, 157, 1) 55%, rgba(245, 157, 157, 0) 100%);
 }
 
 .valDate{
