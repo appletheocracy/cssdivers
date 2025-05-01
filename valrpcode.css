@@ -40,6 +40,32 @@
     height:100%;
 }
 
+.valSec1{
+    width:175px;
+    border:2px solid #ffffff;
+    background-color:#D1A9EF;
+    overflow-y:hidden;
+    height:100%;
+}
+
+
+.valSec2{
+    width:175px;
+    border:2px solid #ffffff;
+    background-color:#EDB3DC;
+    overflow-y:hidden;
+    height:100%;
+}
+
+
+.valSec3{
+    width:175px;
+    border:2px solid #ffffff;
+    background-color:#F4C3A8;
+    overflow-y:hidden;
+    height:100%;
+}
+
 .valbanBGN{
     opacity:0.5;
     background-repeat:no-repeat;
@@ -80,6 +106,21 @@
 .valCro .valCRPb{
     background: #F59D9D;
     background: linear-gradient(0deg, rgba(245, 157, 157, 1) 40%, rgba(245, 157, 157, 0) 100%);
+}
+
+.valSec1 .valCRPb{
+    background: #D1A9EF;
+    background: linear-gradient(0deg,rgba(209, 169, 239, 1) 40%, rgba(209, 169, 239, 0) 100%);
+}
+
+.valSec2 .valCRPb{
+    background: #EDB3DC;
+    background: linear-gradient(0deg, rgba(237, 179, 220, 1) 40%, rgba(237, 179, 220, 0) 100%);
+}
+
+.valSec3 .valCRPb{
+    background: #F4C3A8;
+    background: linear-gradient(0deg, rgba(244, 195, 168, 1) 40%, rgba(244, 195, 168, 0) 100%);
 }
 
 .valDate{
