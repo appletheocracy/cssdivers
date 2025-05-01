@@ -16,7 +16,8 @@
     padding-left:0px!important;
 }
 
-.valDiu{width:175px;
+.valDiu{
+    width:175px;
     border:2px solid #ffffff;
     background-color:#9AC993;
     overflow-y:hidden;
@@ -57,7 +58,7 @@
     position:relative;
     z-index:501;
     top:-400px;
-    margin-bottom:-661px;
+    margin-bottom:-661px!important;
     font-family: "Staatliches", serif;
     font-weight: 400;
     font-style: normal;
@@ -142,13 +143,12 @@
 .valTxtRP{
     background-color:white;
     padding:10px;
-    width:611px;
+    width:611px!important;
     height:auto;
     font-family:calibri;
     font-size:16px;
-    margin-top:10px;
+    margin:10px!important;
     position:relative;
-    margin-left:10px;
 }
 
 .valTxtRP p{
