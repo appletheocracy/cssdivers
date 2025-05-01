@@ -105,14 +105,6 @@
     top:-20px;
 }
 
-.valFleche{
-    height:45px;
-    width:820px;
-    position:relative;
-    top:18px;
-    margin-left:4px;
-}
-
 .valTitre{
     height:45px;
     text-align:center;
@@ -128,6 +120,7 @@
     text-overflow:ellipsis;
     white-space:nowrap;
     display: inline-block;
+    left:0px!important;
 }
 
 .valTitre .up{
@@ -142,8 +135,8 @@
     background-image: url('https://imgur.com/xfPYSwb.png');
     display: inline-block;
     position:relative;
-    left:-4px;
-    margin-right:-4px;
+    left:-4px!important;
+    margin-right:-4px!important;
 }
 
 .valTxtRP{
