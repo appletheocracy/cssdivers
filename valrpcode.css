@@ -120,12 +120,16 @@
     color:black;
     max-width:585px;
     background-color: white;
-    padding:-25px 5px 5px 5px;
+    padding:5px;
     overflow:hidden;
     text-overflow:ellipsis;
     white-space:nowrap;
     display: inline-block;
+}
+
+.valTitre .up{
     position:relative;
+    top:-30px;
 }
 
 .valPointe{
@@ -141,7 +145,7 @@
 
 .valTxtRP{
     background-color:white;
-    padding:-16px 10px 10px 10px;
+    padding:10px;
     width:611px;
     height:auto;
     font-family:calibri;
@@ -149,6 +153,11 @@
     margin-top:10px;
     position:relative;
     margin-left:10px;
+}
+
+.valTxtRP p{
+    position:relative;
+    top:-20px;
 }
 
 .valTxtRP b{
