@@ -98,6 +98,8 @@
     margin-left:25px;
     text-align:right;
     padding:3px;
+    position:relative;
+    top:-20px;
 }
 
 .valFleche{
@@ -118,7 +120,7 @@
     color:black;
     max-width:585px;
     background-color: white;
-    padding:5px;
+    padding:-25px 5px 5px 5px;
     overflow:hidden;
     text-overflow:ellipsis;
     white-space:nowrap;
@@ -139,8 +141,8 @@
 
 .valTxtRP{
     background-color:white;
-    padding:7px;
-    width:617px;
+    padding:-16px 10px 10px 10px;
+    width:611px;
     height:auto;
     font-family:calibri;
     font-size:16px;
