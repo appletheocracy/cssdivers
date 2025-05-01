@@ -129,7 +129,7 @@
 
 .valTitre .up{
     position:relative;
-    top:-30px;
+    top:-40px;
 }
 
 .valPointe{
@@ -158,6 +158,7 @@
 .valTxtRP p{
     position:relative;
     top:-20px;
+    margin-bottom:-20px;
 }
 
 .valTxtRP b{
